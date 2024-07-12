@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khabibullo</h1>
 <h3 align="center">A passionate Full-Stack Developer from Uzbekistan</h3>
+<div>
+- 🔭 Full-stack developer with 2+ years of experience designing and building scalable, high-performance web and mobile applications
+
+- 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP
 
 - 🔭 I’m currently working on food delivery server [Burak](food.com)
 
@@ -16,13 +20,6 @@
 - 📫 How to reach me **hhalimjonov1997@gmail.com**
 
 - 📄 Know about my experiences [https://habibulo.github.io/RESUME_KHABIBULLO/](https://habibulo.github.io/RESUME_KHABIBULLO/)
-<div>
-<br/>
-- 🔭 Full-stack developer with 2+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
-- 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
-- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
-- 😍 Developed some AI Apps and integrated with web and ChatGPT.
-- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
 
 </div>
 
