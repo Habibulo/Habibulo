@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khabibullo</h1>
 <h3 align="center">A passionate Full-Stack Developer from Uzbekistan</h3>
 <div>
+  
 - 🔭 Full-stack developer with 2+ years of experience designing and building scalable, high-performance web and mobile applications
 
 - 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP
